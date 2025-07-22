@@ -1,0 +1,1 @@
+<pre id="readmemd"> # Tender Assistant Bot (n8n + Telegram + OpenAI GPT) ## Құру жолы: 1. Railway → Deploy from GitHub → осы репоны таңда 2. Variables → Telegram және OpenAI кілттеріңді енгіз: - TELEGRAM_BOT_TOKEN - OPENAI_API_KEY 3. Deploy болғасын, n8n UI-ға кіріп workflow импортта </pre>
